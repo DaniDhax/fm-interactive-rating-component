@@ -90,6 +90,12 @@ body {
   font-weight: 700;
   height: 45px;
   width: 45px;
+  cursor: pointer;
+}
+
+.button-rating:hover {
+  background-color: var(--orange);
+  color: var(--white);
 }
 
 .button-submit {
@@ -101,7 +107,17 @@ body {
   padding: 13px;
   letter-spacing: 0.1rem;
   margin-bottom: 30px;
+  cursor: pointer;
 }
+
+.button-submit:hover {
+  background-color: var(--white);
+  color: var(--orange);
+  font-weight: 700;
+}
+
+
+
 
 .state-thankyou {
   display: none;
