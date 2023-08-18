@@ -32,10 +32,6 @@ body {
   font-family: var(--ff-overpass);
 }
 
-.state-rating {
-  display: none;
-}
-
 .state-thankyou {
   border-radius: 15px;
   overflow: hidden;
