@@ -50,7 +50,7 @@ body {
 }
 
 
-.state-thankyou p:nth-child(2) {
+.resultado {
   background-color: var(--medium-grey);
   color: var(--orange);
   font-size: 1.5rem;
@@ -58,7 +58,7 @@ body {
   width: 160px;
   align-self: center;
   border-radius: 20px;
-  margin-top: 30px;
+  margin: 30px auto;
 }
 
 .state-thankyou p:nth-child(3) {
